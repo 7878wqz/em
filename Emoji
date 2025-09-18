@@ -1,0 +1,9 @@
+{
+  "SUCCESS": "✅",
+  "ERROR": "❌",
+  "RE": "🔄",
+  "WARNING": "⚠️",
+  "DIAMOND": "💎",
+  "GREEN": "🟢 ", 
+  "FIREBASE": "🔥"
+}
